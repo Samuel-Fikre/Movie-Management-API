@@ -24,7 +24,6 @@ To run the API locally:
     Clone the repository:
 
  git clone https://github.com/yourusername/movies-api.git
- cd movies-api
 
 Install the Gorilla Mux package:
 
