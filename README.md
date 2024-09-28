@@ -23,20 +23,14 @@ To run the API locally:
 
     Clone the repository:
 
-    bash
-
-git clone https://github.com/yourusername/movies-api.git
-cd movies-api
+ git clone https://github.com/yourusername/movies-api.git
+ cd movies-api
 
 Install the Gorilla Mux package:
-
-bash
 
 go get github.com/gorilla/mux
 
 Run the application:
-
-bash
 
     go run main.go
 
